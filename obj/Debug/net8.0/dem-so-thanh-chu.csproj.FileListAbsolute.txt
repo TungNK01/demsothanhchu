@@ -1,0 +1,15 @@
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/bin/Debug/net8.0/dem-so-thanh-chu
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/bin/Debug/net8.0/dem-so-thanh-chu.deps.json
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/bin/Debug/net8.0/dem-so-thanh-chu.runtimeconfig.json
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/bin/Debug/net8.0/dem-so-thanh-chu.dll
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/bin/Debug/net8.0/dem-so-thanh-chu.pdb
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.AssemblyInfoInputs.cache
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.AssemblyInfo.cs
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.sourcelink.json
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.dll
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/refint/dem-so-thanh-chu.dll
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.pdb
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/dem-so-thanh-chu.genruntimeconfig.cache
+/Users/admin/Documents/CODEGYM/Game-Module1/demsothanhchu/obj/Debug/net8.0/ref/dem-so-thanh-chu.dll

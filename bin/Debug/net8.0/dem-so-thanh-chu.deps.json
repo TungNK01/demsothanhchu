@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dem-so-thanh-chu/1.0.0": {
+        "runtime": {
+          "dem-so-thanh-chu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dem-so-thanh-chu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
